@@ -1,7 +1,7 @@
 #!/bin/bash
 #==========================================================================
 #----------------------- Object does not exist ----------------------------
-# Author:           al812a
+# Author:           Adrian
 # Description:      Script to save a list for the error and run the workaround
 # Version:          0.1
 # Last modified:    08/2023
